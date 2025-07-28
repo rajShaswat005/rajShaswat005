@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced Java librariesand framework of java, Ai and GenAI techniques, MERN Stack workflow, and sharpening my Data Structures & Algorithms using java.
 - 💞️ I’m looking to collaborate on  collaborate on beginner-to-intermediate Java, web development, or open-source problem-solving projects.
 - 📫 How to reach me at this address: shaswatraj536@gmail.com
-- 😄 Pronouns: He/His – fueled by coffee & logic.
+- 😄 Pronouns: He/His – mindset & logic.
 - ⚡ Fun fact: Therapy ??— I just need my code to compile on the first try.
 
 <!---
