@@ -1,469 +1,377 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,12,20,24&text=SHASWAT%20RAJ&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20ML%20Systems%20Builder&descAlignY=60&descSize=17&animation=fadeIn" />
-</a>
-
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Software+Engineer;Building+Production-Grade+AI+%26+Data+Systems;RAG+%7C+Generative+AI+%7C+NLP+%7C+Computer+Vision;Backend+Engineering+%7C+APIs+%7C+Cloud+%7C+DevOps;Turning+Complex+Problems+into+Scalable+Products" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Final%20Year-2026-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Engineering-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=230&section=header&text=Shaswat%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20%2F%20NLP%20%7C%20Full-Stack%20Systems&descAlignY=55&descSize=17&descColor=E0D7FF" width="100%"/>
 
 <a href="https://github.com/rajShaswat005">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/shaswat-raj-8b9487260/">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shaswatraj536@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/rajShaswat005">
-  <img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=680&lines=Engineering+Agentic+RAG+Pipelines;LangChain,+LangGraph,+PyTorch;Turning+LLMs+into+Production+Systems;Final-Year+B.Tech+IT+Student;Open+to+AI+%2F+ML+%2F+NLP+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajShaswat005&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/rajShaswat005?label=FOLLOWERS&style=for-the-badge&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/rajShaswat005?label=STARS&style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/B.Tech-Information_Technology-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Graduating-November_2026-6366F1?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Location-Greater_Noida,_India-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
+
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:shaswatraj536@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/rajShaswat005"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rajShaswat005&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/rajShaswat005?style=for-the-badge&color=6366F1&labelColor=0D1117&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/rajShaswat005?style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github&logoColor=white" />
 
 </div>
 
----
-
-## About
-
-I am a **final-year B.Tech Information Technology engineer** focused on building software systems that combine **strong backend engineering, artificial intelligence, data, and product thinking**.
-
-My work spans **Python, Java, FastAPI, REST APIs, PostgreSQL, Redis, OpenSearch, Docker, CI/CD, Machine Learning, NLP, Computer Vision, Generative AI, and Retrieval-Augmented Generation**.
-
-I enjoy working beyond model experimentation — designing the surrounding system that makes an AI capability useful in production: **data ingestion, APIs, retrieval, evaluation, security, observability, caching, deployment, and user-facing workflows**.
-
-My engineering approach is centered around:
-
-- **Software Engineering** — modular architecture, APIs, OOP, testing, maintainability, and reliable backend systems.
-- **AI/ML Engineering** — ML, deep learning, NLP, computer vision, RAG, embeddings, and LLM-powered applications.
-- **Backend & Platform Engineering** — FastAPI, PostgreSQL, Redis, OpenSearch, Docker, CI/CD, and cloud infrastructure.
-- **Product Engineering** — translating technical capabilities into measurable improvements in usability, automation, efficiency, and business workflows.
-- **Data Engineering & Analytics** — preprocessing, feature engineering, analytical pipelines, dashboards, and data-driven decision systems.
-- **Problem Solving** — competitive programming, algorithmic thinking, system decomposition, and performance-oriented implementation.
-
-### Open To
-
-`AI Engineer` · `ML Engineer` · `Software Engineer` · `Generative AI Engineer` · `Backend Engineer` · `Junior Data Scientist`
+<br/>
 
 ---
 
-## Tech Stack
+## 🧬 About Me
 
-### Languages
+I'm a final-year **B.Tech Information Technology** student at **Noida Institute of Engineering and Technology**, building production-grade **AI and NLP systems** that sit at the intersection of software engineering and applied machine learning. My work spans **agentic RAG pipelines, LLM-powered automation, and full-stack product delivery** — I don't just prototype models, I ship the APIs, databases, and infrastructure that put them in front of real users.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,sql,c&theme=dark" />
-</p>
+Across two internships and a national-level space-tech hackathon, I've engineered systems using **LangChain, LangGraph, PyTorch, and FastAPI** — from a zero-cost Natural Language-to-SQL analytics engine used by non-technical retail shopkeepers, to a UNet-based computer vision pipeline selected among 500+ submissions at the **ISRO Bharat Antariksh Hackathon 2025**.
 
-### Frontend
+- 🔭 Currently engineering a **production-style Agentic RAG platform** — FastAPI · PostgreSQL · OpenSearch · Redis · Airflow · Langfuse
+- 🧠 Deep focus on **NLP, Retrieval-Augmented Generation, and Generative AI systems** that are observable and cost-efficient
+- 🛠️ Full-stack capable — **React / TypeScript** on the front, **FastAPI / PostgreSQL** on the back, **Docker / CI-CD** in between
+- 📈 Product-engineering mindset — every model I build is judged by the **business outcome** it drives, not just its accuracy score
+- 🤝 Actively looking to connect with engineers, founders, and researchers building in the AI space
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
-</p>
+**📌 Open To:** `AI Engineer` · `Machine Learning Engineer` · `NLP Engineer` · `Backend / AI-Infra Engineer` — full-time, off-campus opportunities.
 
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,redis,docker&theme=dark" />
-</p>
-
-<img src="https://img.shields.io/badge/OpenSearch-7C3AED?style=flat-square&logo=opensearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-6366F1?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-4F46E5?style=flat-square&logo=sqlite&logoColor=white"/>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,linux&theme=dark" />
-</p>
-
-<img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-6366F1?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-8B5CF6?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Bedrock-4F46E5?style=flat-square&logo=amazonaws&logoColor=white"/>
+<br/>
 
 ---
 
-## AI/ML Expertise
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,java&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-6366F1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss&theme=dark" />
+
+<br/><br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,sqlite,supabase&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OpenSearch-A855F7?style=for-the-badge&logo=opensearch&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,linux&theme=dark" />
+
+<br/><br/>
+
+**AI / ML Libraries**
+
+<img src="https://img.shields.io/badge/PyTorch-8B5CF6?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/scikit--learn-6366F1?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hugging_Face-A855F7?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NumPy-6366F1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Matplotlib-A855F7?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+<br/>
+
+---
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Generative AI** | Advanced | LLM applications, RAG architectures, agent workflows, prompt-driven systems |
-| **Retrieval-Augmented Generation** | Advanced | Document ingestion, embeddings, hybrid retrieval, vector search, OpenSearch, grounded generation |
-| **Natural Language Processing** | Advanced | NLP preprocessing, text features, transformers, sentiment analysis, semantic retrieval |
-| **Machine Learning** | Advanced | Feature engineering, model training, evaluation, regression, classification |
-| **Deep Learning** | Intermediate–Advanced | PyTorch, neural networks, UNet-based computer vision pipelines |
-| **Computer Vision** | Advanced | Semantic segmentation, image analysis, Chandrayaan imagery, hazard mapping |
-| **LLM Application Engineering** | Advanced | LangChain, LangGraph, LLM APIs, NL2SQL, evaluation pipelines |
-| **Data Science** | Advanced | Data preprocessing, analytical dashboards, statistical analysis, actionable insights |
-| **AI System Engineering** | Advanced | APIs, caching, authentication, observability, CI/CD, containerized deployment |
+| **NLP & Text Analytics** | ●●●●○ | Sentiment analysis, feature engineering, and text preprocessing pipelines on 5,000+ record corpora |
+| **Retrieval-Augmented Generation** | ●●●●○ | Hybrid search (OpenSearch), embedding pipelines, and LangChain/LangGraph orchestration at 10,000+ document scale |
+| **LLM Integration & Agentic Systems** | ●●●●○ | Production LLM pipelines via Groq LLaMA-3, prompt-driven SQL generation, agent-based query routing |
+| **Computer Vision** | ●●●○○ | UNet semantic segmentation on satellite imagery — 92% validation accuracy, ISRO-selected |
+| **Predictive Modeling** | ●●●○○ | Rule-based heuristics + regression for behavioural risk prediction (30-day flight-risk model) |
+| **MLOps & Observability** | ●●●○○ | Langfuse tracing, Prometheus/Grafana monitoring, Dockerized deployment, GitHub Actions CI/CD |
 
----
-
-## Featured Projects
-
-<details>
-<summary><strong>AI-Powered Knowledge Management Platform / Agentic RAG Telegram Bot</strong></summary>
+</div>
 
 <br/>
 
-A production-style **AI knowledge management platform** designed around document ingestion, hybrid information retrieval, AI-assisted question answering, backend APIs, caching, observability, and automated deployment.
+---
 
-| Metric | Engineering Detail |
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 AI-Powered Knowledge Management Platform — Agentic RAG Telegram Bot</b></summary>
+<br/>
+
+A production-style Retrieval-Augmented Generation platform that turns a document corpus into a conversational, AI-assisted knowledge base — architected as a real backend system, not a notebook demo.
+
+| Category | Details |
 |---|---|
-| **Stack** | Python · FastAPI · PostgreSQL · OpenSearch · Redis · Docker · Airflow · LangChain · LangGraph |
-| **Scale** | Designed for **10,000+ documents** |
-| **Performance** | Hybrid retrieval + Redis caching for efficient information access |
+| **Stack** | Python · FastAPI · PostgreSQL · OpenSearch · Redis · Docker · LangChain/LangGraph · Airflow |
+| **Scale** | 10,000+ documents automatically ingested and indexed |
+| **Performance** | Hybrid (lexical + semantic) search via OpenSearch, Redis-based response caching |
 | **Security** | JWT-authenticated REST APIs |
-| **Impact** | Automated document processing and AI-assisted knowledge discovery |
-| **Repository** | [GitHub Repository](https://github.com/rajShaswat005) |
+| **Impact** | Automated end-to-end pipeline: ingestion → embedding → retrieval → grounded LLM response |
+| **Repository** | [View Repository →](https://github.com/rajShaswat005) |
 
-### Engineering Scope
-
-- Built automated document ingestion pipelines covering PDF parsing, preprocessing, embeddings, indexing, and retrieval.
-- Designed hybrid search using keyword and semantic retrieval to improve document discovery.
-- Implemented FastAPI services for exposing retrieval and AI workflows through secure APIs.
-- Added Redis caching to reduce repeated computation and improve response efficiency.
-- Integrated Langfuse, Prometheus, and Grafana for application observability.
-- Automated testing and deployment workflows using GitHub Actions and Docker.
-- Designed the system around production concerns rather than a notebook-only RAG prototype.
+**Overview:** Built the full ingestion-to-answer pipeline — Airflow-orchestrated PDF parsing and preprocessing feeding an OpenSearch hybrid retriever, wrapped in secure, JWT-authenticated FastAPI endpoints. Observability was treated as a first-class concern: Langfuse traces every LLM call, Prometheus and Grafana expose system health, and the stack ships through a GitHub Actions CI/CD pipeline.
 
 </details>
 
----
-
 <details>
-<summary><strong>Lunar Landslide Detection — ISRO Bharat Antariksh Hackathon 2025</strong></summary>
-
+<summary><b>🔹 Lunar Landslide Detection — ISRO Bharat Antariksh Hackathon 2025</b></summary>
 <br/>
 
-A computer vision system for identifying **lunar landslides and boulders from Chandrayaan imagery**, using deep-learning-based semantic segmentation.
+A computer vision pipeline that identifies landslides and boulders in lunar terrain from Chandrayaan satellite imagery, built for ISRO's national hackathon.
 
-| Metric | Engineering Detail |
+| Category | Details |
 |---|---|
-| **Stack** | Python · PyTorch · Computer Vision · UNet |
-| **Scale** | Selected among **500+ national submissions** |
-| **Performance** | **92% validation accuracy** |
-| **Security** | Local ML processing and controlled analytical workflow |
-| **Impact** | Improved preprocessing efficiency by **40%** and generated annotated hazard maps |
-| **Repository** | [GitHub Repository](https://github.com/rajShaswat005) |
+| **Stack** | Python · PyTorch · UNet · Semantic Segmentation |
+| **Scale** | National hackathon — selected among 500+ submissions |
+| **Performance** | 92% validation accuracy · 40% faster preprocessing pipeline |
+| **Security** | N/A — academic/research imagery dataset |
+| **Impact** | Delivered annotated hazard maps and analytical reports to ISRO reviewers |
+| **Repository** | [View Repository →](https://github.com/rajShaswat005) |
 
-### Engineering Scope
-
-- Developed an image segmentation pipeline for lunar terrain analysis.
-- Applied a UNet-based architecture to identify potential landslides and boulders.
-- Optimized image preprocessing to improve overall pipeline efficiency.
-- Achieved 92% validation accuracy.
-- Produced annotated hazard maps and statistical analytical reports.
-- Project selected among more than 500 national submissions for the ISRO Bharat Antariksh Hackathon 2025.
+**Overview:** Designed a UNet-based semantic segmentation model to detect landslide and boulder formations directly from raw Chandrayaan imagery, cutting preprocessing time by 40% through a streamlined data pipeline. The submission was among the top selections nationally out of 500+ entries, with hazard maps and analytical reporting delivered in ISRO-aligned format.
 
 </details>
 
----
-
 <details>
-<summary><strong>Aurix — AI Frequency Sound Generator</strong></summary>
-
+<summary><b>🔹 Aurix — AI Frequency Sound Generator</b></summary>
 <br/>
 
-An interactive web application that converts user prompts into personalized sound-frequency experiences with real-time audio visualization.
+An interactive web app that turns natural-language prompts into personalized, real-time sound-frequency experiences, live in public beta.
 
-| Metric | Engineering Detail |
+| Category | Details |
 |---|---|
 | **Stack** | TypeScript · React · Tailwind CSS · Supabase · Web Audio API |
-| **Scale** | Beta-tested with real users |
-| **Performance** | Real-time browser-based audio visualization |
-| **Security** | Authentication and session management through Supabase |
-| **Impact** | Reduced beta bounce rate by **25%** |
-| **Repository** | [Live Application](#) |
+| **Scale** | Public beta release |
+| **Performance** | Real-time frequency generation and waveform visualization in-browser |
+| **Security** | Supabase-based authentication and session management |
+| **Impact** | Reduced beta bounce rate by 25% through UI/UX improvements |
+| **Repository** | [View Repository →](https://github.com/rajShaswat005) |
 
-### Engineering Scope
-
-- Built a responsive React-based application for prompt-driven sound generation.
-- Integrated the Web Audio API for real-time audio generation and visualization.
-- Implemented authentication and session management using Supabase.
-- Improved responsive UI behavior and interaction flows.
-- Focused on product usability rather than treating the project solely as an AI experiment.
+**Overview:** Built as an end-to-end product rather than a model demo — pairing the Web Audio API with a responsive React/Tailwind interface to generate and visualize personalized sound frequencies from user prompts in real time. Supabase handles auth and session state; UX refinements during the beta phase cut bounce rate by 25%.
 
 </details>
-
----
-
-<details>
-<summary><strong>Natural Language-to-SQL Analytics Engine — iDigiBill</strong></summary>
 
 <br/>
 
-An AI analytics engine that allows non-technical retail users to query sales, inventory, and GST information using natural language.
+---
 
-| Metric | Engineering Detail |
-|---|---|
-| **Stack** | Python · LangChain · Groq LLaMA3-8B · SQLite · FastAPI · Streamlit · Plotly · Docker |
-| **Scale** | **1,200 synthetic bills**, 5-table production-mirroring schema |
-| **Performance** | **85%+ SQL generation accuracy**, under 2-second response time |
-| **Security** | Synthetic dataset designed to avoid exposing production data |
-| **Impact** | Enabled natural-language analytics for non-technical retail users |
-| **Repository** | [GitHub Repository](https://github.com/rajShaswat005) |
+## 💼 Experience
 
-### Engineering Scope
+### AI Engineer Intern @ iDigi (Intelligent Digital Solutions)
+**📍 Noida &nbsp;|&nbsp; 🗓️ March 2025 – April 2025**
 
-- Designed an NL2SQL pipeline using LangChain agents and LLaMA3-8B through Groq.
-- Built a synthetic Indian retail dataset containing 1,200 bills across five tables.
-- Incorporated realistic GST slabs, seasonal demand patterns, payment distributions, and locale-aware product data.
-- Developed automatic chart-type detection for bar, line, pie, and metric visualizations.
-- Achieved more than 85% SQL-generation accuracy across a 20-query evaluation set.
-- Deployed the full-stack application with Streamlit, FastAPI, SQLite, and Docker.
-- Maintained an infrastructure cost of ₹0 using open-source tooling and free-tier APIs.
+Engineered a Natural Language-to-SQL analytics engine for **iDigiBill**, a GST-compliant retail billing product, giving non-technical shopkeepers plain-English access to their own sales, inventory, and tax data.
 
-</details>
+- Built the NL2SQL pipeline with LangChain agents, the Groq LLaMA3-8B API, and SQLite — reaching **85%+ SQL generation accuracy** on a 20-query evaluation set with **sub-2-second** response time
+- Designed a 1,200-bill synthetic Indian retail dataset (5-table schema) using Faker, with locale-aware products, real GST slabs (0/5/12/18/28%), and seasonal patterns like Diwali sales spikes
+- Shipped the full stack — Streamlit, FastAPI, SQLite, Docker — on Streamlit Community Cloud with **90%+ automatic chart-type detection**, at **$0 infrastructure cost**
+
+<img src="https://img.shields.io/badge/-LangChain-0D1117?style=flat-square&color=8B5CF6" /> <img src="https://img.shields.io/badge/-Groq_LLaMA3-0D1117?style=flat-square&color=6366F1" /> <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&color=A855F7" /> <img src="https://img.shields.io/badge/-Streamlit-0D1117?style=flat-square&color=8B5CF6" /> <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&color=6366F1" /> <img src="https://img.shields.io/badge/-Plotly-0D1117?style=flat-square&color=A855F7" />
+
+<br/>
+
+### Data Analysis & LLM Intern @ Springer Capital
+**📍 Remote &nbsp;|&nbsp; 🗓️ August 2025 – November 2025**
+
+Built an end-to-end NLP solution for employee sentiment analysis, taking the project from raw data through Dockerized deployment.
+
+- Automated data preprocessing, feature engineering, model training, and evaluation for a full sentiment-analysis pipeline
+- Analyzed **5,000+ employee records**, engineering text-based features and analytical dashboards that turned workforce data into decisions management could act on
+- Designed a **30-day employee flight-risk prediction** model using rule-based heuristics and regression, flagging behavioural risk indicators for proactive workforce planning
+
+<img src="https://img.shields.io/badge/-NLP-0D1117?style=flat-square&color=8B5CF6" /> <img src="https://img.shields.io/badge/-Feature_Engineering-0D1117?style=flat-square&color=6366F1" /> <img src="https://img.shields.io/badge/-Regression-0D1117?style=flat-square&color=A855F7" /> <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&color=8B5CF6" /> <img src="https://img.shields.io/badge/-Dashboards-0D1117?style=flat-square&color=6366F1" />
+
+<br/>
 
 ---
 
-## Experience
-
-### AI Engineer Intern — iDigi (Intelligent Digital Solutions)
-
-**Mar 2025 – Apr 2025 · Noida**
-
-Developed an AI-powered analytics capability for **iDigiBill**, a GST-compliant retail billing platform, focusing on natural-language interaction with structured business data.
-
-**Scope of Work**
-
-- Built an NL2SQL analytics engine using LangChain agents and Groq LLaMA3-8B.
-- Enabled natural-language querying of sales, inventory, and GST information.
-- Designed and generated a synthetic Indian retail dataset with 1,200 bills and a five-table schema.
-- Implemented automatic visualization selection using Plotly.
-- Built a 20-query evaluation framework for measuring SQL-generation quality.
-- Deployed the application using FastAPI, Streamlit, SQLite, and Docker.
-- Achieved 85%+ SQL generation accuracy with sub-2-second response time.
-- Delivered 90%+ automatic chart-type detection across multiple visualization types.
-
-`Python` `LangChain` `LLM` `FastAPI` `SQLite` `Docker` `Streamlit` `Plotly`
-
----
-
-### Data Analysis & LLM Intern — Springer Capital
-
-**Aug 2025 – Nov 2025 · Remote**
-
-Developed an end-to-end NLP and analytics solution for employee sentiment analysis and workforce risk analysis.
-
-**Scope of Work**
-
-- Automated data preprocessing, feature engineering, model training, evaluation, and deployment.
-- Analyzed 5,000+ employee records for workforce sentiment trends.
-- Engineered text-based features for analytical modeling.
-- Developed analytical dashboards to convert workforce data into actionable insights.
-- Designed a 30-day employee flight-risk prediction solution.
-- Combined rule-based heuristics and regression techniques to identify multiple behavioral risk indicators.
-- Supported proactive workforce planning through data-driven analysis.
-
-`Python` `NLP` `Machine Learning` `Feature Engineering` `Regression` `Docker` `Data Analytics`
-
----
-
-### Full-Stack / Software Engineering Training — NTT DATA
-
-**Jan 2025 – Jul 2025**
-
-Engineering training focused on **Spring Boot microservices, REST APIs, CI/CD, and software testing**.
-
-**Scope of Work**
-
-- Engineered Spring Boot microservices and REST APIs.
-- Improved request efficiency by approximately 25%.
-- Automated CI/CD pipelines and reduced deployment time from approximately three hours to under 15 minutes.
-- Implemented unit and system testing.
-- Reduced software defects by approximately 30%.
-
-`Java` `Spring Boot` `REST APIs` `Microservices` `CI/CD` `Testing`
-
----
-
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |:---|:---|
-| **ISRO Bharat Antariksh Hackathon 2025** | Lunar landslide and boulder detection project selected among **500+ national submissions** |
-| **LeetCode Weekly Contest** | **Global Rank 950 / 20,000+**, Top **5% worldwide** |
-| **AI Engineering** | Built production-style RAG, NLP, NL2SQL, and computer vision systems |
-| **Software Engineering** | Experience across backend APIs, microservices, CI/CD, Docker, databases, and cloud platforms |
+| 🛰️ **ISRO Bharat Antariksh Hackathon 2025** | Lunar landslide/boulder detection model selected among **500+ national submissions**; 92% validation accuracy |
+| 🥇 **LeetCode — Global Rank 950 / 20,000+** | Placed in the **top 5% worldwide** in competitive programming |
+| ⚙️ **NTT DATA Catalys Program** | 100%-graded completion; CI/CD automation cut deployment time from **3h to under 15 minutes** |
+| 💰 **Zero-Cost Production AI System** | Designed and deployed a full NL2SQL analytics engine at **$0 infrastructure cost** |
+| 📊 **5,000+ Records Analyzed** | End-to-end NLP pipeline at Springer Capital supporting real workforce decisions |
 
 </div>
 
----
-
-## Certifications
-
-### NTT DATA
-
-<img src="https://img.shields.io/badge/NTT%20DATA-Catalys%20Portal-7C3AED?style=for-the-badge&logo=ntt&logoColor=white"/>
-
-**Spring Boot Microservices & REST APIs** · CI/CD · Software Testing
+<br/>
 
 ---
 
-### IBM
+## 📜 Certifications
 
-<img src="https://img.shields.io/badge/IBM-AI%20Foundations-6366F1?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-6366F1?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0D1117" />
 
-**Introduction to Artificial Intelligence**
+- AI Foundations — Introduction to Artificial Intelligence *(Mar 2025)*
+
+<br/>
+
+<img src="https://img.shields.io/badge/NTT_DATA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+
+- Catalys Portal — Spring Boot microservices, REST APIs, CI/CD automation & testing *(Jan – Jul 2025)*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Infosys_Springboard-A855F7?style=for-the-badge&labelColor=0D1117" />
+
+- Python — Programming Fundamentals, Part 1 & 2 *(Feb 2024)*
+- Natural Language Processing using Python *(Aug 2024)*
+- Programming in C *(Feb 2025)*
+- Database Management System (DBMS) *(Nov 2024)*
+- Twitter Bootstrap — Responsive UI Development *(Dec 2024)*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Coursera-6366F1?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0D1117" />
+
+- Introduction to Artificial Intelligence (AI) *(Jan 2023)*
+- Python for Data Science, AI & Development *(May 2023)*
+- Human-Centered Design for Inclusive Innovation *(May 2023)*
+- Python Basics / Python for Beginners *(Jan 2023)*
+
+<br/>
 
 ---
 
-### Infosys Springboard
-
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Python-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Infosys%20Springboard-NLP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Infosys%20Springboard-C%20Programming-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Infosys%20Springboard-DBMS-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Bootstrap-8B5CF6?style=for-the-badge"/>
-
-Python Programming Fundamentals · Natural Language Processing using Python · Programming in C · Database Management System · Twitter Bootstrap
-
----
-
-### Coursera
-
-<img src="https://img.shields.io/badge/Coursera-Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursera-Python%20for%20Data%20Science-6366F1?style=for-the-badge&logo=coursera&logoColor=white"/>
-
-Introduction to Artificial Intelligence · Python for Data Science, AI & Development · Human-Centered Design for Inclusive Innovation · Python Basics
-
----
-
-## Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/rajshaswat001/">
-<img src="https://img.shields.io/badge/LeetCode-Top%205%25%20Worldwide-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Global_Rank_950%2F20K%2B-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/your-leetcode-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117)](https://www.geeksforgeeks.org/user/your-gfg-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)](https://www.hackerrank.com/your-hackerrank-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117)](https://www.codechef.com/users/your-codechef-username)
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-4F46E5?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LeetCode%20Global%20Rank-950%20%2F%2020%2C000%2B-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Competitive%20Programming-Top%205%25-6366F1?style=for-the-badge"/>
+<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira%20Code&ext=heatmap&border=2&bg_color=0D1117&border_color=8B5CF6" width="500"/>
 
 </div>
 
+<br/>
+
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/rajShaswat005">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajShaswat005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&bg_color=0D1117" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=rajShaswat005&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=rajShaswat005&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=6366F1" width="49%"/>
 
-<a href="https://github.com/rajShaswat005">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajShaswat005&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" />
-</a>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rajShaswat005&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajShaswat005&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="49%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajShaswat005&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajShaswat005&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
 </div>
 
+<br/>
+
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajShaswat005&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Shaswat%20Raj%20%E2%80%94%20Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajShaswat005&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=A855F7" width="95%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajShaswat005/rajShaswat005/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/rajShaswat005/rajShaswat005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
-profile:
-  role: "AI Engineer / Software Engineer"
-  graduation: "B.Tech Information Technology — 2026"
+current_focus:
+  learning:
+    - "Advanced RAG evaluation (RAGAS) & agent observability at scale"
+    - "Applied deep learning for medical imaging"
+  building:
+    - "Production-grade agentic AI systems for real business workflows"
+    - "Cost-efficient, zero-infra LLM pipelines for early-stage products"
+  exploring:
+    - "How AI-driven products translate into measurable business value"
+    - "The engineering-to-business bridge in early-stage tech teams"
+  open_to:
+    - "AI Engineer / ML Engineer / NLP Engineer roles — full-time, off-campus"
+    - "Conversations with builders, founders & fellow engineers"
+```
 
-Learning:
-  - "Advanced RAG architectures"
-  - "LLM evaluation and production reliability"
-  - "Agentic AI systems"
-  - "Scalable backend architecture"
-  - "Production ML system design"
+<br/>
 
-Building:
-  - "Production-oriented RAG systems"
-  - "LLM-powered developer and business applications"
-  - "AI-enabled analytics platforms"
-  - "Scalable backend APIs and data systems"
+---
 
-Exploring:
-  - "Generative AI"
-  - "Retrieval-Augmented Generation"
-  - "AI Agents"
-  - "NLP and Transformers"
-  - "Computer Vision"
-  - "Cloud-native ML systems"
-  - "AI product engineering"
+## 🤝 Connect With Me
 
-Open To:
-  - "AI Engineer opportunities"
-  - "ML Engineer opportunities"
-  - "Generative AI Engineer opportunities"
-  - "Software Engineer opportunities"
-  - "Backend Engineering opportunities"
-  - "Collaborative AI/ML projects"
-  
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:shaswatraj536@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-rajShaswat005-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/rajShaswat005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://your-portfolio-url.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"Good models are interesting. Models that ship, that get used, that move a metric someone cares about — those are the ones worth building."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:8B5CF6,100:6366F1&height=120&section=footer&reversal=true" width="100%"/>
+
+</div>
