@@ -269,9 +269,6 @@ Built an end-to-end NLP solution for employee sentiment analysis, taking the pro
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117)](https://www.geeksforgeeks.org/profile/shaswatsg7h)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)](https://https://www.hackerrank.com/profile/shaswatraj536)
 <br/>
-
-<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira%20Code&ext=heatmap&border=2&bg_color=0D1117&border_color=8B5CF6" width="500"/>
-
 </div>
 
 <br/>
