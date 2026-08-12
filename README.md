@@ -96,7 +96,7 @@ Across two internships and a national-level space-tech hackathon, I've engineere
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI / Gen AI / LLMOps Expertise
 
 <div align="center">
 
@@ -145,7 +145,7 @@ A computer vision pipeline that identifies landslides and boulders in lunar terr
 | Category | Details |
 |---|---|
 | **Stack** | Python · PyTorch · UNet · Semantic Segmentation |
-| **Scale** | National hackathon — selected among 500+ submissions |
+| **Scale** | National hackathon — selected for final submissions |
 | **Performance** | 92% validation accuracy · 40% faster preprocessing pipeline |
 | **Security** | N/A — academic/research imagery dataset |
 | **Impact** | Delivered annotated hazard maps and analytical reports to ISRO reviewers |
@@ -337,8 +337,8 @@ current_focus:
     - "How AI-driven products translate into measurable business value"
     - "The engineering-to-business bridge in early-stage tech teams"
   open_to:
-    - "AI Engineer / ML Engineer / NLP Engineer roles"
-    - "Conversations with builders, founders & fellow engineers"
+    - "AI Engineer / GenAi Engineer / LLM Engineer / AI roles"
+    - "open to connect like minded opportunities"
 ```
 
 <br/>
