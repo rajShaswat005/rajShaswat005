@@ -288,19 +288,7 @@ Built an end-to-end NLP solution for employee sentiment analysis, taking the pro
 
 <br/>
 
----
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajShaswat005&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-
-</div>
-
-<br/>
-
----
 
 ## 📈 Contribution Activity
 
@@ -328,7 +316,6 @@ src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajShaswat005/rajShaswat005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
@@ -350,7 +337,7 @@ current_focus:
     - "How AI-driven products translate into measurable business value"
     - "The engineering-to-business bridge in early-stage tech teams"
   open_to:
-    - "AI Engineer / ML Engineer / NLP Engineer roles — full-time, off-campus"
+    - "AI Engineer / ML Engineer / NLP Engineer roles"
     - "Conversations with builders, founders & fellow engineers"
 ```
 
