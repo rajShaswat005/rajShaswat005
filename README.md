@@ -242,7 +242,7 @@ Built an end-to-end NLP solution for employee sentiment analysis, taking the pro
 
 <img src="https://img.shields.io/badge/Infosys_Springboard-A855F7?style=for-the-badge&labelColor=0D1117" />
 
-- Python — Programming Fundamentals, Part 1 & 2 *(Feb 2024)*
+- Python — Programming Fundamentals, Part 1 & 2 *(Feb 2024)* 
 - Natural Language Processing using Python *(Aug 2024)*
 - Programming in C *(Feb 2025)*
 - Database Management System (DBMS) *(Nov 2024)*
