@@ -38,12 +38,12 @@ I'm a final-year **B.Tech Information Technology** student at **Noida Institute 
 Across two internships and a national-level space-tech hackathon, I've engineered systems using **LangChain, LangGraph, PyTorch, and FastAPI** — from a zero-cost Natural Language-to-SQL analytics engine used by non-technical retail shopkeepers, to a UNet-based computer vision pipeline selected among 500+ submissions at the **ISRO Bharat Antariksh Hackathon 2025**.
 
 - 🔭 Currently engineering a **production-style Agentic RAG platform** — FastAPI · PostgreSQL · OpenSearch · Redis · Airflow · Langfuse
-- 🧠 Deep focus on **NLP, Retrieval-Augmented Generation, and Generative AI systems** that are observable and cost-efficient
-- 🛠️ Full-stack capable — **React / TypeScript** on the front, **FastAPI / PostgreSQL** on the back, **Docker / CI-CD** in between
+- 🧠 Deep focus on **NLP, Retrieval-Augmented Generation, LLMs and Generative AI systems** that are observable and cost-efficient
+- 🛠️ Full-stack capable — **TypeScript** on the front, **FastAPI / PostgreSQL** on the back, **Docker / CI-CD** in between
 - 📈 Product-engineering mindset — every model I build is judged by the **business outcome** it drives, not just its accuracy score
 - 🤝 Actively looking to connect with engineers, founders, and researchers building in the AI space
 
-**📌 Open To:** `AI Engineer` · `Machine Learning Engineer` · `NLP Engineer` · `Backend / AI-Infra Engineer` — full-time, off-campus opportunities.
+**📌 Open To:** `AI Engineer` · `LLMOPs Engineer` · `Generative Ai Engineer` · ` Applied Ai Engineer` — full-time, internship.
 
 <br/>
 
@@ -104,10 +104,10 @@ Across two internships and a national-level space-tech hackathon, I've engineere
 |---|:---:|---|
 | **NLP & Text Analytics** | ●●●●○ | Sentiment analysis, feature engineering, and text preprocessing pipelines on 5,000+ record corpora |
 | **Retrieval-Augmented Generation** | ●●●●○ | Hybrid search (OpenSearch), embedding pipelines, and LangChain/LangGraph orchestration at 10,000+ document scale |
-| **LLM Integration & Agentic Systems** | ●●●●○ | Production LLM pipelines via Groq LLaMA-3, prompt-driven SQL generation, agent-based query routing |
-| **Computer Vision** | ●●●○○ | UNet semantic segmentation on satellite imagery — 92% validation accuracy, ISRO-selected |
+| **LLM Integration & Agentic Systems** | ●●●●○ | Production LLM pipelines via Groq LLaMA-3, SQL generation, agent-based query routing |
+| **Computer Vision Usecase** | ●●●○○ | UNet semantic segmentation on satellite imagery — 92% validation accuracy, ISRO-selected |
 | **Predictive Modeling** | ●●●○○ | Rule-based heuristics + regression for behavioural risk prediction (30-day flight-risk model) |
-| **MLOps & Observability** | ●●●○○ | Langfuse tracing, Prometheus/Grafana monitoring, Dockerized deployment, GitHub Actions CI/CD |
+| **MLOps & Observability** | ●●●○○ | Langfuse tracing, Monitoring, Dockerized deployment, GitHub Actions CI/CD |
 
 </div>
 
