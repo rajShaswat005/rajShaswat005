@@ -281,9 +281,6 @@ Built an end-to-end NLP solution for employee sentiment analysis, taking the pro
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajShaswat005&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=rajShaswat005&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=6366F1" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajShaswat005&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="49%"/>
-
 </div>
 
 <br/>
