@@ -290,39 +290,6 @@ Built an end-to-end NLP solution for employee sentiment analysis, taking the pro
 
 
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajShaswat005&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=A855F7" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-</picture>
-</p>
-
-<div align="center">
-
-
-</div>
-
-<br/>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
