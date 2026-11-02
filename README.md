@@ -199,7 +199,7 @@ Engineered a Natural Language-to-SQL analytics engine for **iDigiBill**, a GST-c
 Built an end-to-end NLP solution for employee sentiment analysis, taking the project from raw data through Dockerized deployment.
 
 - Automated data preprocessing, feature engineering, model training, and evaluation for a full sentiment-analysis pipeline
-- Analyzed **5,000+ employee records**, engineering text-based features and analytical dashboards that turned workforce data into decisions management could act on
+- Analyzed **5,000+ employee records**, engineering text-based features and dashboards that turned workforce data into decisions management could act on
 - Designed a **30-day employee flight-risk prediction** model using rule-based heuristics and regression, flagging behavioural risk indicators for proactive workforce planning
 
 <img src="https://img.shields.io/badge/-NLP-0D1117?style=flat-square&color=8B5CF6" /> <img src="https://img.shields.io/badge/-Feature_Engineering-0D1117?style=flat-square&color=6366F1" /> <img src="https://img.shields.io/badge/-Regression-0D1117?style=flat-square&color=A855F7" /> <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&color=8B5CF6" /> <img src="https://img.shields.io/badge/-Dashboards-0D1117?style=flat-square&color=6366F1" />
